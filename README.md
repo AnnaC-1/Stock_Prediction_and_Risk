@@ -1,4 +1,6 @@
 # Stock_Prediction_and_Risk
 
+Take a look at the ipynb file! 
 
-Come back later...Work still in progress!
+Note to self: 
+Write short summary later!
